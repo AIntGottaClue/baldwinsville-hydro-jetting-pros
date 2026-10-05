@@ -1,4 +1,4 @@
-export const neighborhoods = [
+export const neighborhoods =  [
   {
     "slug": "genesee-street-center",
     "name": "Genesee Street Center",
@@ -12,6 +12,13 @@ export const neighborhoods = [
         "ps": [
           "The village's 2006 Central Business District plan includes properties fronting East and West Genesee Street and nearby village streets. It records the rehabilitation of historic buildings into restaurant, lodging and retail uses. The plan is historical context, not a current record of a private pipe. See <a href=\"https://www.baldwinsville.gov/download/148/news-and-information/5422/central-business-district-strategic-development-plans-2.pdf\">Village Central Business District plan</a>.",
           "Local history does not identify a private pipe's material, age or condition. Confirm the address, connection and access before choosing work."
+        ]
+      },
+      {
+        "h": "How do the services fit homes in Genesee Street Center?",
+        "ps": [
+          "Each service page answers one question. <a href=\"/services/severe-grease-and-sludge/\">Grease and sludge</a> is for kitchen lines that back up, <a href=\"/services/tree-root-intrusions/\">tree roots</a> is for lines where roots may have gotten in, and <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a> is for deposits that narrow a pipe over time.",
+          "If none of those sounds like your drain, <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs and slow drains</a> is the broader page, and <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> explains what the work involves before you ask anyone to do it. The <a href=\"/neighborhood/river-street/\">River Street</a> page covers another part of Baldwinsville."
         ]
       },
       {
@@ -58,6 +65,13 @@ export const neighborhoods = [
         "ps": [
           "The village's 2006 plan identifies a River Street character area near the riverfront and discusses mixed-use buildings and access to Mercer Park. A riverside setting does not by itself identify groundwater entry or sewer damage at a property. See <a href=\"https://www.baldwinsville.gov/download/148/news-and-information/5422/central-business-district-strategic-development-plans-2.pdf\">Village Central Business District plan</a>.",
           "Local history does not identify a private pipe's material, age or condition. Confirm the address, connection and access before choosing work."
+        ]
+      },
+      {
+        "h": "Which hydro jetting pages are worth reading before a request in River Street?",
+        "ps": [
+          "Read <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> first if the method is new to you. Then pick the page that matches what the drain is doing: <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs</a>, <a href=\"/services/severe-grease-and-sludge/\">grease and sludge</a> or <a href=\"/services/tree-root-intrusions/\">tree roots</a>.",
+          "<a href=\"/services/preventative-maintenance/\">Preventative hydro jetting</a> is the page for a line that is working now and that you want to keep clear. The <a href=\"/\">Baldwinsville hydro jetting page</a> lists the rest for Baldwinsville. The <a href=\"/neighborhood/genesee-street-center/\">Genesee Street Center</a> page covers another part of Baldwinsville."
         ]
       },
       {
